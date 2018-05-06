@@ -1,5 +1,5 @@
 ;;; Title: hw2_1-2.lsp
-;;; Author: E94046050
+;;; Author: kevin110604
 ;;; Function: determine whether its contents form a palindrome
 ;;; How to run: sbcl --script hw2_1-2.lsp
 

@@ -1,5 +1,5 @@
 ;;; Title: hw2_1-1.lsp
-;;; Author: E94046050
+;;; Author: kevin110604
 ;;; Function: determine if a number is a prime
 ;;; How to run: sbcl --script hw2_1-1.lsp
 

@@ -1,5 +1,5 @@
 ;;; Title: hw2_2.lsp
-;;; Author: E94046050
+;;; Author: kevin110604
 ;;; Function: merge sort
 ;;; How to run: sbcl --script hw2_2.lsp 
 

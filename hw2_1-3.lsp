@@ -1,5 +1,5 @@
 ;;; Title: hw2_1-3.lsp
-;;; Author: E94046050
+;;; Author: kevin110604
 ;;; Function: Fibonacci
 ;;; How to run: sbcl --script hw2_1-3.lsp
 
